@@ -32,7 +32,17 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.inputText {
+  padding: 10px;
+}
+
+.submitButton {
+  padding: 8px 15px;
+  cursor: pointer;
 }
